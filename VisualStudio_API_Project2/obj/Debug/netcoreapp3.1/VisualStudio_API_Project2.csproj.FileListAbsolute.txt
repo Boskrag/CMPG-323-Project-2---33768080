@@ -135,6 +135,12 @@ C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\b
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\VisualStudio_API_Project2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\VisualStudio_API_Project2.Views.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\bin\Debug\netcoreapp3.1\VisualStudio_API_Project2.Views.pdb
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\VisualStudio_API_Project2.RazorAssemblyInfo.cache
@@ -148,10 +154,10 @@ C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\o
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\Razor\Views\Devices\Edit.cshtml.g.cs
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\Razor\Views\Devices\Index.cshtml.g.cs
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\VisualStudio_API_Project2.RazorTargetAssemblyInfo.cs
-C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\VisualStudio_API_Project2.Views.pdb
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\Razor\Views\Zones\Create.cshtml.g.cs
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\Razor\Views\Zones\Delete.cshtml.g.cs
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\Razor\Views\Zones\Details.cshtml.g.cs
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\Razor\Views\Zones\Edit.cshtml.g.cs
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\Razor\Views\Zones\Index.cshtml.g.cs
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\VisualStudio_API_Project2.RazorTargetAssemblyInfo.cs
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Debug\netcoreapp3.1\VisualStudio_API_Project2.Views.pdb
