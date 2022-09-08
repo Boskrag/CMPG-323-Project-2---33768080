@@ -4,6 +4,10 @@ C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\o
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\VisualStudio_API_Project2.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\VisualStudio_API_Project2.runtimeconfig.json
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\VisualStudio_API_Project2.pdb
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.HashCode.dll
@@ -24,6 +28,8 @@ C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\o
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
@@ -119,4 +125,6 @@ C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\o
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\VisualStudio_API_Project2.Views.dll
+C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\VisualStudio_API_Project2.Views.pdb
 C:\Users\Alouw\Desktop\CMPG-323-Project-2---33768080\VisualStudio_API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\VisualStudio_API_Project2.deps.json
