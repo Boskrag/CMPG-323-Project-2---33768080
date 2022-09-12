@@ -48,3 +48,7 @@ GET/api/Zones/{id} - (Retrieves one zone from database according to its ID)
 PUT/api/Zones/{id} - (Updates an existing zone)
 
 DELETE/api/Zones/{id} - (Deletes an existing zone according to its ID)
+
+# API Management Service
+![image](https://user-images.githubusercontent.com/90321243/189648788-99d81a3f-92d1-4ed4-b8da-4e36f9b9ad38.png)
+![image](https://user-images.githubusercontent.com/90321243/189648875-8efd709c-118b-4569-96d3-478d155cc2af.png)
